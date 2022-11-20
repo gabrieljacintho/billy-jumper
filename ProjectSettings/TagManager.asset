@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coin
+  - Water
+  - Global Light
+  - UI Light
+  - EventSystem
+  - Managers
+  - BackgroundCanvas
+  - Chest
+  - BigChest
+  - ToyChest
+  - ForegroundCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1848111209
+    locked: 0
+  - name: DetailsBack
+    uniqueID: 2437812951
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DetailsFront
+    uniqueID: 4206795887
+    locked: 0
+  - name: Tilemap
+    uniqueID: 987514997
+    locked: 0
+  - name: OnTilemap
+    uniqueID: 2451609311
+    locked: 0
+  - name: UI
+    uniqueID: 2759966965
+    locked: 0
